@@ -1,28 +1,25 @@
-A* Algorithm for Path Planning
+# A* Algorithm for Path Planning
 
-This repository contains an implementation of the A* algorithm for path planning. The project was developed as part of the Artificial Intelligence course in the Master’s Program in Autonomous Systems at Hochschule Bonn-Rhein-Sieg (University of Applied Sciences).
+This repository contains an implementation of the **A\*** algorithm for path planning.  
+The project was created as part of the *Artificial Intelligence* course in the **Master’s Program in Autonomous Systems** at **Hochschule Bonn-Rhein-Sieg (University of Applied Sciences)**.
 
-The notebook demonstrates how A* can be applied for navigation in grid-based environments, which is a fundamental concept in robotics and autonomous systems.
+The notebook demonstrates how A\* can be applied in grid-based environments for robot navigation.  
+This algorithm is one of the most widely used techniques in robotics and AI for efficiently finding the shortest path between two points.
 
-Project Structure
+---
 
-Social_robotics.ipynb - Jupyter notebook with A* implementation and analysis
-README.md - Project documentation
-requirements.txt - Dependencies (optional)
+##  Project Structure
 
-Requirements
+- `Social_robotics.ipynb` — Main Jupyter notebook with the full A\* implementation and explanations  
+- `README.md` — Project documentation  
 
-Python 3.8 or higher
+---
 
-Jupyter Notebook or Jupyter Lab
+##  Requirements
 
-To install dependencies (if requirements.txt is available):
-pip install -r requirements.txt
+- Python 3.8 or higher  
+- Jupyter Notebook or Jupyter Lab  
 
-If not, install manually:
-pip install numpy matplotlib
+Install dependencies using the requirements file:
 
-Usage
 
-Clone the repository:
-git clone git@github.com
