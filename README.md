@@ -14,11 +14,7 @@ This algorithm is one of the most widely used techniques in robotics and AI for 
 
 ---
 
-##  Requirements
+  
 
-- Python 3.8 or higher  
-- Jupyter Notebook or Jupyter Lab  
-
-Install dependencies using the requirements file:
 
 
